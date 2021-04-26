@@ -1,5 +1,5 @@
 - 👋 I'm just another guy trying to code
-- 👀 I’m interested in pc and board games ¯\_(ツ)_/¯
+- 👀 I’m interested in pc and board games ¯\ _(ツ)_/¯
 - 🌱 I’m currently learning C++
 
 'It just works'  
