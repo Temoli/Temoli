@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Temoli. Just another guy trying to code
+- 👋 I'm just another guy trying to code
 - 👀 I’m interested in pc and board games ¯\_(ツ)_/¯
 - 🌱 I’m currently learning C++
 
@@ -11,9 +11,9 @@
 	
 	
 	
-[1]https://youtu.be/nVqcxarP9J4  
-https://youtu.be/YPN0qhSyWy8  
-[2]https://youtu.be/k238XpMMn38
+[1] https://youtu.be/nVqcxarP9J4  
+    https://youtu.be/YPN0qhSyWy8  
+[2] https://youtu.be/k238XpMMn38
 
 <!---
 Temoli/Temoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
