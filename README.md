@@ -1,6 +1,6 @@
 - 👋 I'm just another guy trying to code
 - 👀 I’m interested in 3d printing, pc and board games ¯\\\_(ツ)\_/¯
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ but also Java
 
 'It just works'  
 	~Tod Haward [1]  
