@@ -15,8 +15,8 @@
     https://youtu.be/YPN0qhSyWy8  
 [2] https://youtu.be/k238XpMMn38
 
-Squirrel in avatar by alizard https://opengameart.org/content/pixel-squirrelhttps://opengameart.org/content/pixel-squirrel on CC0 1.0 license
-Slightly edited by me 
+Squirrel in avatar by alizard https://opengameart.org/content/pixel-squirrelhttps://opengameart.org/content/pixel-squirrel on CC0 1.0 license.
+Image slightly edited by me 
 
 <!---
 Temoli/Temoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
