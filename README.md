@@ -11,7 +11,7 @@
 	
 	
 	
-[1] https://youtu.be/nVqcxarP9J4 
+[1] https://youtu.be/nVqcxarP9J4  
 [2] https://youtu.be/k238XpMMn38
 
 Squirrel in avatar by alizard https://opengameart.org/content/pixel-squirrelhttps://opengameart.org/content/pixel-squirrel on CC0 1.0 license.
