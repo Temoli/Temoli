@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 
 
-Squirrel in avatar by alizard https://opengameart.org/content/pixel-squirrelhttps://opengameart.org/content/pixel-squirrel on CC0 1.0 license.
+Squirrel in avatar by alizard https://opengameart.org/content/pixel-squirrel on CC0 1.0 license.
 Image slightly edited by me 
 
 <!---
