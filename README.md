@@ -2,8 +2,19 @@
 - 👀 I’m interested in 3d printing, pc and board games ¯\\\_(ツ)\_/¯
 - 🌱 I’m currently learning C++
 
+'It just works'  
+	~Tod Haward [1]  
 
-Squirrel in avatar by alizard https://opengameart.org/content/pixel-squirrel on CC0 1.0 license.
+'This is some lame shit right here'  
+'This is utterly fucking retarded'  
+	~Valve devs [2]  
+	
+	
+	
+[1] https://youtu.be/nVqcxarP9J4  
+[2] https://youtu.be/k238XpMMn38
+
+Squirrel in avatar by alizard https://opengameart.org/content/pixel-squirrelhttps://opengameart.org/content/pixel-squirrel on CC0 1.0 license.
 Image slightly edited by me 
 
 <!---
