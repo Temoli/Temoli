@@ -1,8 +1,8 @@
 - 👋 I'm just another guy trying to code
 - 👀 I’m interested in 3d printing, pc and board games ¯\\\_(ツ)\_/¯
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python and I occasionally spend time with C++
 
-Squirrel in avatar by alizard https://opengameart.org/content/pixel-squirrelhttps://opengameart.org/content/pixel-squirrel on CC0 1.0 license.
+Squirrel in avatar by alizard https://opengameart.org/content/pixel-squirrel on CC0 1.0 license.
 Image slightly edited by me 
 
 <!---
